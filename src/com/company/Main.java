@@ -3,7 +3,7 @@ import java.util.*;
 
 class Main{
     public static void main(String[] args) {
-        System.out.println("asklm");
+        System.out.println("assalamualaykum");
         Scanner myObj = new Scanner(System.in);
         String userName;
 
